@@ -4,11 +4,11 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Plepponium/Plepponium/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Plepponium/Plepponium/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Plepponium/Plepponium/output/pacman-contribution-graph.svg">
-</picture>
+<h1 align="left">👋 Servus, ich bin Adrian</h1>
+
+###
+
+<h3 align="left">💻 Zertifizierter Frontend Developer mit  🎯 Fokus auf moderne Webtechnologien und sauberen Code.<br>Auf dem Weg zum Fullstack Developer – immer am Bauen, Lernen und Optimieren 🛠️</h3>
 
 ###
 
@@ -28,6 +28,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Plepponium&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Plepponium&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Plepponium/Plepponium/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Plepponium/Plepponium/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Plepponium/Plepponium/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
